@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://i.postimg.cc/76hh48G0/A-Frontend-developer-1-1.png" alt="banner" />
+  <img src="https://i.postimg.cc/Kj4BQG6H/Final.png" alt="banner" />
 </p>
 
 ---
