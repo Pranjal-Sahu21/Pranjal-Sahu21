@@ -10,6 +10,10 @@
 <p align="center">
   <img src="https://i.postimg.cc/Kj4BQG6H/Final.png" alt="banner" />
 </p>
+
+
+---
+
 ## 📚 Skills  
 
 <p align="center">
@@ -32,7 +36,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
 </p>
 
-
+---
 
 ## 🌐 Connect with me  
 <p align="center">
