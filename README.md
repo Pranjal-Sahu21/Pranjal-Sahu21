@@ -27,6 +27,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.postimg.cc/9fsqV7MY/React-Router-logo.png" width="40" height="40" alt="React-router"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://i.postimg.cc/Hxxzs31t/framer-motion-seeklogo.png" width="40" height="40" alt="Framer Motion"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
