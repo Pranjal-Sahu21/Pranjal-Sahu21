@@ -37,7 +37,11 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://i.postimg.cc/28RzFxqJ/react-router-logo.jpg" width="40" height="40" alt="React-router"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i.postimg.cc/Hxxzs31t/framer-motion-seeklogo.png" width="40" height="40" alt="Framer Motion"/>
+  <img src="https://i.postimg.cc/Hxxzs31t/framer-motion-seeklogo.png" width="36" height="36" alt="Framer Motion"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
