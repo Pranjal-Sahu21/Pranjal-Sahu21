@@ -66,7 +66,7 @@
 
 ## • GitHub Stats 
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Pranjal-Sahu21&theme=dark&ring=E25822&fire=E25822&currStreakLabel=E25822&sideLabels=ffffff&dates=aaaaaa&cache_seconds=86400" /> </p> 
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Pranjal-Sahu21&theme=dark&ring=E25822&fire=E25822&currStreakLabel=E25822&sideLabels=ffffff&dates=aaaaaa" /> </p> 
 
 ---
 
