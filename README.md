@@ -5,6 +5,8 @@
   />
 </p>
 
+---
+
 <table align="center">
   <tr>
     <td>
@@ -24,7 +26,7 @@
 
 ---
 
-## • Skills  
+## • Skills & Tools
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
@@ -42,11 +44,11 @@
   <img src="https://i.postimg.cc/28RzFxqJ/react-router-logo.jpg" width="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://i.postimg.cc/Hxxzs31t/framer-motion-seeklogo.png" width="36"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=express" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
@@ -54,7 +56,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/prisma/ffffff" width="40"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/netlify" width="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
@@ -68,7 +72,9 @@
 
 ## • GitHub Stats 
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Pranjal-Sahu21&theme=dark&ring=E25822&fire=E25822&currStreakLabel=E25822&sideLabels=ffffff&dates=aaaaaa" /> </p> 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pranjal-Sahu21&theme=dark&ring=E25822&fire=E25822&currStreakLabel=E25822&sideLabels=ffffff&dates=aaaaaa" />
+</p>
 
 ---
 
