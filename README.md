@@ -13,14 +13,15 @@
       <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
     </td>
     <td width="400">
-      <ul>
-        <li>I'm <b>Pranjal Sahu</b></li>
-        <li>Currently learning <b>Web Development</b></li>
-        <li>Building projects to improve skills</li>
-        <li>Exploring TypeScript & React</li>
-        <li>Pronouns: He/Him</li>
-      </ul>
-    </td>
+  <ul>
+    <li>I'm <b>Pranjal Sahu</b></li>
+    <li>Currently learning <b>Web Development</b></li>
+    <li>Building projects to improve skills</li>
+    <li>Exploring backend technologies</li>
+    <li>Learning <b>System Design & Scaling Techniques</b></li>
+    <li>Pronouns: He/Him</li>
+  </ul>
+</td>
   </tr>
 </table>
 
@@ -48,23 +49,28 @@
 <img src="https://skillicons.dev/icons?i=react&theme=dark" height="40"/>
 &nbsp;&nbsp;&nbsp;
 
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="40"/>
+&nbsp;&nbsp;&nbsp;
+
 <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="40"/>
 &nbsp;&nbsp;&nbsp;
 
 <img src="https://skillicons.dev/icons?i=express&theme=dark" height="40"/>
-&nbsp;&nbsp;&nbsp;
-
 
 </p>
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="40"/>
+&nbsp;&nbsp;&nbsp;
 
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="40"/>
 &nbsp;&nbsp;&nbsp;
 
 <img src="https://skillicons.dev/icons?i=prisma&theme=dark" height="40"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.simpleicons.org/drizzle/FFFF00" height="40"/>
 &nbsp;&nbsp;&nbsp;
 
 <img src="https://skillicons.dev/icons?i=netlify&theme=dark" height="40"/>
