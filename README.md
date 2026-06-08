@@ -77,6 +77,10 @@
 </p>
 
 <p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution chart"/>
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranjal-Sahu21/Pranjal-Sahu21/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranjal-Sahu21/Pranjal-Sahu21/output/github-contribution-grid-snake.svg"/>
