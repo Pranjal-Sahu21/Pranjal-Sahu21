@@ -1,8 +1,9 @@
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?size=42&duration=4000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi+there!;I'm+Pranjal;A+Web+Developer"
-    alt="Typing SVG"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?size=42&duration=4000&color=000000&center=true&vCenter=true&width=800&lines=Hi+there!;I'm+Pranjal;A+Web+Developer"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?size=42&duration=4000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi+there!;I'm+Pranjal;A+Web+Developer"/>
+    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?size=42&duration=4000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi+there!;I'm+Pranjal;A+Web+Developer"/>
+  </picture>
 </p>
 
 ---
