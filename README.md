@@ -1,10 +1,10 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?size=42&duration=4000&color=000000&center=true&vCenter=true&width=800&lines=Hi+there!;I'm+Pranjal;A+Web+Developer"/>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?size=42&duration=4000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi+there!;I'm+Pranjal;A+Web+Developer"/>
-    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?size=42&duration=4000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi+there!;I'm+Pranjal;A+Web+Developer"/>
-  </picture>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?size=42&duration=4000&color=39d353&center=true&vCenter=true&width=800&lines=Hi+there!;I'm+Pranjal;A+Web+Developer"
+    alt="Typing SVG"
+  />
 </p>
+
 
 ---
 
@@ -74,7 +74,7 @@
 ## • GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pranjal-Sahu21&theme=black-ice&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=999999&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Pranjal-Sahu21&theme=dark&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=26a641&dates=26a641&hide_border=true&stroke=39d353&currStreakNum=ffffff&sideNums=ffffff" />
 </p>
 
 <p align="center">
