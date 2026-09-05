@@ -15,11 +15,12 @@
     </td>
     <td width="400">
       <ul>
-        <li>Currently learning <b>Web Development</b></li>
+        <li>I am <b>Pranjal Sahu</b></li>
+        <li>Currently learning <b>LLD & HLD</b></li>
         <li>Applying <b>DSA & algorithmic techniques</b> to real-world problems</li>
-        <li>Exploring ranking & information retrieval algorithms</li>
+        <li>Exploring <b>ranking & information retrieval algorithms</b></li>
         <li>Learning <b>System Design & Scalable Architecture</b></li>
-        <li>Pronouns: He/Him</li>
+        <li>Pronouns: <b>He/Him</b></li>
       </ul>
     </td>
   </tr>
